@@ -1,0 +1,3 @@
+[submodule "mentor-task1"]
+	path = mentor-task1
+	url = https://github.com/Mic-Tad/mentor-task1.git
